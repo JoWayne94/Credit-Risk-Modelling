@@ -1,0 +1,2 @@
+# Credit-Risk-Modelling
+This is an introductory project to credit risk during the author's internship at Maxis Communications. Due to cost considerations, this project attempts to build an efficient tool for the Consumer Business department in order to easily and accurately assess the default risk of clients if offered a contract. Precisely, the main purpose of this project is to predict the creditworthiness of consumers by scoring them, thus it is a multi-classification problem.
